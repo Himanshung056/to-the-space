@@ -2,7 +2,7 @@ openapi: '3.0.0'
 info:
   version: '1.0.0'
   title: 'Sample API random title'
-  description: Buy or rent spacecrafts asdasdasda
+  description: Buy or rent spacecrafts asdasdasda asdsadasd
 
 paths:
   /spacecrafts/{spacecraftId}:
