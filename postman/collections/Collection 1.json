@@ -84,7 +84,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": ""
+					"raw": "www.postman.com",
+					"host": [
+						"www",
+						"postman",
+						"com"
+					]
 				}
 			},
 			"response": []
